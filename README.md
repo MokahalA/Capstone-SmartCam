@@ -16,8 +16,13 @@ Mohammad Osama – 8770948
 
 ### Dependencies
 
-To install all the required dependencies: `pip install -r requirements.txt`
-To run the flask application: `python3 app.py`
+To install all the required dependencies: 
+
+* `pip install -r requirements.txt`
+
+To run the flask application:
+
+* `python3 app.py`
 
 
 ### System Architecture
