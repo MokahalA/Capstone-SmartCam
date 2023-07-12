@@ -22,7 +22,9 @@ To run the flask application: `python3 app.py`
 
 ### System Architecture
 
-![System Architecture](./documentation/system-architecture.png)
+<p align="center">
+    <img src="./documentation/system-architecture.png" />
+</p>
 
 
 ### Screens
