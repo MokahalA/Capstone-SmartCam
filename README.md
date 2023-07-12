@@ -28,10 +28,14 @@ To run the flask application: `python3 app.py`
 
 
 ### Screens
-
-<p float="left">
-  <img src="./documentation/Home-screen.png" width="240" />
-  <img src="./documentation//Plate-upload.png" width="240" />
+<p align="center">
+    <img src="./documentation/system-architecture.png" />
 </p>
 
-<img src="./documentation/Realtime-tracking.png" width="240" />
+<p align="center">
+    <img src="./documentation/system-architecture.png" />
+</p>
+
+<p align="center">
+    <img src="./documentation/system-architecture.png" />
+</p>
