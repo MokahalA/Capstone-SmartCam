@@ -14,6 +14,8 @@ Humza Faisal – 300042664
 
 Mohammad Osama – 8770948
 
+Release document: https://1drv.ms/w/s!AsVyL8ltotB7rLxX65z8n5NrvH76mg?e=GNoRhJ
+
 ### Dependencies
 
 To install all the required dependencies: 
