@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>FP Page</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}" />
+		<noscript><link rel="stylesheet" href="{{url_for('static', filename='css/noscript.css')}}" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="{{ url_for('index') }}">CrimaVision</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="{{ url_for('index') }}">Home</a></li>
+								<li><a href="{{ url_for('lpPage') }}">Tracking Page</a></li>
+								<li><a href="{{ url_for('fPage') }}">About Us</a></li>
+								<li><a href="#">Log In</a></li>
+								<li><a href="#">Sign Up</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+						<header>
+							<div class="inner">
+								<div class="logo"><span class="icon fa-gem"></span></div>
+								<h2>Our project is called CrimaVision</h2>
+								<p>The computer engineering capstone project involves a Raspberry Pi 4 and webcam for license plate and facial recognition, with a webpage hosted on the Pi 4 displaying camera feeds and a map location GUI with scan pins. The facial recognition component identifies individuals and their criminal status, while the license plate component displays car information and flags stolen vehicles. 
+								<br>Test
+								</br>
+								<br>Made by: Humza Faisal, Alexandre St-Martin, Ansh Patel, Ahmad El Mokahal, Dima Cherepovskyi,  Mohammad Osama​
+								</br>
+								</p>
+							</div>
+						</header>
+					</section>
+
+				<!-- Footer -->
+					
+			</div>
+
+		<!-- Scripts -->
+			<script src="{{url_for('static', filename='js/jquery.min.js')}}"></script>
+			<script src="{{url_for('static', filename='js/jquery.scrollex.min.js')}}"></script>
+			<script src="{{url_for('static', filename='js/browser.min.js')}}"></script>
+			<script src="{{url_for('static', filename='js/breakpoints.min.js')}}"></script>
+			<script src="{{url_for('static', filename='js/util.js')}}"></script>
+			<script src="{{url_for('static', filename='js/main.js')}}"></script>
+	</body>
+</html>
