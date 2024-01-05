@@ -40,6 +40,9 @@ To run the flask application:
     <img src="./documentation/system-architecture.png" />
 </p>
 
+<p align="center">
+    <img src="./documentation/hardware-system.png" />
+</p>
 
 ### Frontend UI Screens
 <p align="center">
