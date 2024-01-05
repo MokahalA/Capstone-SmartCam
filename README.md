@@ -41,7 +41,7 @@ To run the flask application:
 </p>
 
 
-### Software Screens
+### Frontend UI Screens
 <p align="center">
     <img src="./documentation/Home-screen.png" />
 </p>
